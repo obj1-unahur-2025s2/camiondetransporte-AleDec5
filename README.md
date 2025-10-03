@@ -76,3 +76,5 @@ Al cargar una cosa en el camión, esta pueda sufrir cambios. Estos cambios tiene
 - contenedor portuario: hace que reaccione cada una de las cosas que tiene adentro;
 - residuos radioactivos: agrega 15 kilos;
 - embalaje de seguridad: nada.
+
+blahblahblah
